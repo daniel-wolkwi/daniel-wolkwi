@@ -11,6 +11,20 @@
   - [placeholder](link here)
 - <b>Azure Sentinel SIEM</b>
   - [placeholder](link here)
+  
+  <h2>Certifications</h2>
+- <b>CompTIA</b>
+  - [A+](https://imgur.com/LGGxWy9)
+  - [Network+](https://imgur.com/Wbeh01W)
+  - [Security+](https://imgur.com/FuEx9qN)
+  - [Project+](https://imgur.com/zrQg6b4)
+- <b>ITIL Foundation v4</b>
+  - [IT Service Management](https://imgur.com/KYU06yy)
+- <b>LPI</b>
+  - [Linux Essentials](https://imgur.com/hqurcho)
+- <b>Amazon Web Services (AWS)</b>
+  - [Cloud Practitioner](https://imgur.com/UINdH1j)
+  
 <h2> Connect with me on LinkedIn!</h2>
 
 [<img align="left" alt="Daniel Wolkwiitz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
