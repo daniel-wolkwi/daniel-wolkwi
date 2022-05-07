@@ -4,12 +4,12 @@
 
 - <b>Raspberry Pi</b>
   - [OpenMediaVault NAS](https://github.com/daniel-wolkwi/raspberrypinaslab)
-  - [Pi-Hole](link here)
+  - [Pi-Hole](https://github.com/daniel-wolkwi/raspberrypiholelab)
 - <b>Active Directory & PowerShell</b>
   - [placeholder](link here)
   - [placeholder](link here)
 - <b>Azure Sentinel SIEM</b>
-  - [placeholder](link here)
+  - Coming Soon!
   
   <h2>Certifications</h2>
 - <b>CompTIA</b>
