@@ -2,10 +2,9 @@
 
 <h2>Homelab Projects:</h2>
 
-- <b>Raspberry Pi "Pi-Hole" DNS</b>
-  - [placeholder](link here)
-- <b>Raspberry Pi OpenMediaVault NAS</b>
-  - [placeholder](link here)
+- <b>Raspberry Pi</b>
+  - [OpenMediaVault NAS](https://github.com/daniel-wolkwi/raspberrypinaslab)
+  - [Pi-Hole](link here)
 - <b>Active Directory & PowerShell</b>
   - [placeholder](link here)
   - [placeholder](link here)
