@@ -13,16 +13,16 @@
   
   <h2>Certifications</h2>
 - <b>CompTIA</b>
-  - [A+](https://i.imgur.com/LGGxWy9.jpeg)
-  - [Network+](https://i.imgur.com/Wbeh01W.jpeg)
-  - [Security+](https://i.imgur.com/FuEx9qN.jpeg)
-  - [Project+](https://i.imgur.com/zrQg6b4.jpeg)
+  - [A+](https://i.imgur.com/ja9FlAN.jpg)
+  - [Network+](https://i.imgur.com/1Wtdzca.jpg)
+  - [Security+](https://i.imgur.com/88zu59O.jpg)
+  - [Project+](https://i.imgur.com/HzuFg27.jpg)
 - <b>ITIL Foundation v4</b>
-  - [IT Service Management](https://i.imgur.com/KYU06yy.jpeg)
+  - [IT Service Management](https://i.imgur.com/9Ayorkh.jpg)
 - <b>LPI</b>
-  - [Linux Essentials](https://i.imgur.com/hqurcho.jpeg)
+  - [Linux Essentials](https://i.imgur.com/Lx5flbe.jpg)
 - <b>Amazon Web Services (AWS)</b>
-  - [Cloud Practitioner](https://i.imgur.com/UINdH1j.jpeg)
+  - [Cloud Practitioner](https://i.imgur.com/9YRyNc4.jpg)
   
 <h2> Connect with me on LinkedIn!</h2>
 
