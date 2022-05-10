@@ -11,7 +11,7 @@
   - [Pi-Hole](https://github.com/daniel-wolkwi/raspberrypiholelab)
 - <b>Azure Sentinel SIEM</b>
   - Coming Soon!
-  
+  <!--
   <h2>Certifications</h2>
 - <b>CompTIA</b>
   - A+
@@ -24,7 +24,7 @@
   - Linux Essentials
 - <b>Amazon Web Services (AWS)</b>
   - Cloud Practitioner
-  
+  -->
 <h2> Connect with me on LinkedIn!</h2>
 
 [<img align="left" alt="Daniel Wolkwiitz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
