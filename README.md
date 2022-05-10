@@ -3,8 +3,9 @@
 <h2>Homelab Projects:</h2>
 
 - <b>Active Directory & PowerShell</b>
-  - [placeholder](link here)
-  - [placeholder](link here)
+  - [Active Directory Domain Environment](https://github.com/daniel-wolkwi/activedirectory)
+  - [User Creation with PowerShell](https://github.com/daniel-wolkwi/usercreationpowershell)
+  - [Group Policy](https://github.com/daniel-wolkwi/grouppolicy)
 - <b>Raspberry Pi</b>
   - [OpenMediaVault NAS](https://github.com/daniel-wolkwi/raspberrypinaslab)
   - [Pi-Hole](https://github.com/daniel-wolkwi/raspberrypiholelab)
@@ -13,16 +14,16 @@
   
   <h2>Certifications</h2>
 - <b>CompTIA</b>
-  - [A+](https://i.imgur.com/ja9FlAN.jpg)
-  - [Network+](https://i.imgur.com/1Wtdzca.jpg)
-  - [Security+](https://i.imgur.com/88zu59O.jpg)
-  - [Project+](https://i.imgur.com/HzuFg27.jpg)
+  - A+
+  - Network+
+  - Security+
+  - Project+
 - <b>ITIL Foundation v4</b>
-  - [IT Service Management](https://i.imgur.com/9Ayorkh.jpg)
+  - IT Service Management
 - <b>LPI</b>
-  - [Linux Essentials](https://i.imgur.com/Lx5flbe.jpg)
+  - Linux Essentials
 - <b>Amazon Web Services (AWS)</b>
-  - [Cloud Practitioner](https://i.imgur.com/9YRyNc4.jpg)
+  - Cloud Practitioner
   
 <h2> Connect with me on LinkedIn!</h2>
 
