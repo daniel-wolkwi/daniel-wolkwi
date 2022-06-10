@@ -9,7 +9,7 @@
 - <b>Raspberry Pi</b>
   - [OpenMediaVault NAS](https://github.com/daniel-wolkwi/raspberrypinaslab)
   - [Pi-Hole](https://github.com/daniel-wolkwi/raspberrypiholelab)
-- <b>Azure Sentinel SIEM</b>
+- <b>Microsoft Sentinel SIEM</b>
   - Coming Soon!
   <!--
   <h2>Certifications</h2>
